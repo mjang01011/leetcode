@@ -7,7 +7,7 @@ TASK: leet7
 import java.util.*;
 import java.io.*;
 
-public class leet7OPT{
+public class leet7{
 
 	public static int reverse(int x) {
         long ans = 0;
