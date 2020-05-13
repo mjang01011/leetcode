@@ -2,6 +2,7 @@
 ID: mjang
 LANG: JAVA
 TASK: leet70
+DIFFICULTY: Easy
 */
 
 //DP Solution
